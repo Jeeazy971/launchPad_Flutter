@@ -23,7 +23,7 @@
 Clonez le dépôt sur votre machine locale en utilisant la commande suivante :
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone https://github.com/Jeeazy971/launchPad_Flutter.git
 ```
 
 ### Dépendances
